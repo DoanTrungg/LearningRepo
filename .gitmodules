@@ -1,0 +1,6 @@
+[submodule "manage-employees"]
+	path = manage-employees
+	url = https://github.com/DoanTrungg/manage-employees.git
+[submodule "Price_Car"]
+	path = Price_Car
+	url = https://github.com/DoanTrungg/Price_Car.git
